@@ -1,3 +1,3 @@
-# Graph Viz
+# Smart RDF
 
-Play with graph.
+Play with RDF graph.
