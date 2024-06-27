@@ -1,10 +1,10 @@
 import React from 'react';
-import GraphVisualization from './GraphVisualization';
+import RDFGraphVisualization from './RDFGraphVisualization';
 
 function App() {
   return (
       <div className="App">
-        <GraphVisualization />
+        <RDFGraphVisualization />
       </div>
   );
 }

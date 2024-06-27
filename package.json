@@ -6,11 +6,18 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "buffer": "^6.0.3",
+    "d3-drag": "^3.0.0",
+    "d3-force": "^3.0.0",
+    "d3-selection": "^3.0.0",
+    "d3-zoom": "^3.0.0",
     "lucide-react": "^0.396.0",
+    "rdflib": "^2.2.35",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-draggable": "^4.4.6",
     "react-scripts": "5.0.1",
+    "url": "^0.11.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
